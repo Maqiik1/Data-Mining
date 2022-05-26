@@ -8,3 +8,9 @@ This project works with data set of web pages from computer science departments
 of various universities. The 3710 pages correspond to the personal web
 pages of either students (1642), faculty members (1125) or courses (931) within
 these departments.
+
+Step 1: Run all codes
+
+![Alt Text](https://media.giphy.com/media/2bUpP71bbVnZ3x7lgQ/giphy.gif)
+
+You will see that all codes were run properly.
