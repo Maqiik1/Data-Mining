@@ -1,6 +1,6 @@
-## Data-Mining
+# Data-Mining
 
-# Part 2: Feature Construction, Classification and Evaluation
+## Part 2: Feature Construction, Classification and Evaluation
 
 ![Alt Text](https://media.giphy.com/media/XD9o33QG9BoMis7iM4/giphy.gif)
 
@@ -26,5 +26,5 @@ The README file is used also for a trainig purposes of researcher to test README
 
 ![Alt Text](https://media.giphy.com/media/12vJgj7zMN3jPy/giphy.gif)
 
-# This project is part of Data Mining course at the KU Leuven.
+## This project is part of Data Mining course at the KU Leuven.
 ![image](https://user-images.githubusercontent.com/75505238/170591569-dd5c52e8-b75c-4d4b-bc88-cea8e763ea95.png)
