@@ -13,7 +13,7 @@ Step 1: Run all codes
 
 ![Alt Text](https://media.giphy.com/media/2bUpP71bbVnZ3x7lgQ/giphy.gif)
 
-You will see that all codes were run properly.
+Step 2: You will see that all codes were run properly, including, features, models and evaluation.
 
 The software is possible to read the training data from a directory with three
 subdirectories (one for each class), and read the test data from a single
